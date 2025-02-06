@@ -1,7 +1,3 @@
-Below is a professional and well-structured `README.md` file for your Android app that listens to SMS activity and forwards it to a Telegram bot. This documentation includes setup instructions, usage details, and troubleshooting tips.
-
----
-
 # SMS Forwarder to Telegram Bot
 
 This Android app listens for incoming SMS messages and forwards them to a Telegram bot. It supports both foreground and background execution using `WorkManager` for reliable message forwarding.
